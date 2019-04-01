@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# by inoro
+tests/block-storage/test*/storage
